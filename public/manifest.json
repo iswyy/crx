@@ -1,0 +1,16 @@
+{
+  "name": "My-Ext",
+  "description": "some description",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+  },
+  "permissions": [
+  ],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "192": "logo192.png"
+  }
+}
